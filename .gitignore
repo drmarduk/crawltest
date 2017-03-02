@@ -1,6 +1,2 @@
-*.jpg
-*.png
-*.gif
-*.html
-*.gifv
-*.webm
+!*.go
+!.gitignore
